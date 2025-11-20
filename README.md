@@ -36,6 +36,7 @@
 5. conftest.py - специальный файл в pytest для хранения общих настроек и фикстур
 6. TESTCASES.md - файл, в котором содержаться тест-кейсы
 7. BUGS.md - файл, в котором содержаться баг-репорты
+8. avito_first_task.pdf - файл с первым заданием
 
 <h3>Результаты прохождения автотестов:</h3>
 <img width="858" height="693" alt="image" src="https://github.com/user-attachments/assets/22911bf7-31f5-4c7a-84ef-6a5ae3f7579c" />
